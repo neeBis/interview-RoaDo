@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interview-RoaDo/static/css/main.34de6062.chunk.css",
+    "main.js": "/interview-RoaDo/static/js/main.b1f0e0cc.chunk.js",
+    "main.js.map": "/interview-RoaDo/static/js/main.b1f0e0cc.chunk.js.map",
+    "runtime-main.js": "/interview-RoaDo/static/js/runtime-main.13e6bc91.js",
+    "runtime-main.js.map": "/interview-RoaDo/static/js/runtime-main.13e6bc91.js.map",
+    "static/js/2.aef33d5a.chunk.js": "/interview-RoaDo/static/js/2.aef33d5a.chunk.js",
+    "static/js/2.aef33d5a.chunk.js.map": "/interview-RoaDo/static/js/2.aef33d5a.chunk.js.map",
+    "index.html": "/interview-RoaDo/index.html",
+    "precache-manifest.930106ecd772da1c3ea7dc5f648dda91.js": "/interview-RoaDo/precache-manifest.930106ecd772da1c3ea7dc5f648dda91.js",
+    "service-worker.js": "/interview-RoaDo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/interview-RoaDo/static/css/main.34de6062.chunk.css.map",
+    "static/media/cross.svg": "/interview-RoaDo/static/media/cross.8db7ae2f.svg",
+    "static/media/tick.svg": "/interview-RoaDo/static/media/tick.c0cbd084.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e6bc91.js",
+    "static/js/2.aef33d5a.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.b1f0e0cc.chunk.js"
+  ]
+}
